@@ -1,2 +1,5 @@
 # ignore virtual environment
 env
+
+# ignore DS Store
+.DS_Store
